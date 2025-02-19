@@ -1,6 +1,9 @@
 nginx
 openjdk:25-jdk
 openjdk:8u342
+openjdk:8u322
+redis:7.4
+mariadb:11.4
 testcontainers/helloworld:1.2.0-linux
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
