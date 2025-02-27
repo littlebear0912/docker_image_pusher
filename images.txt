@@ -5,6 +5,7 @@ openjdk:8u322
 redis:7.4
 mariadb:11.4
 php:7.0.7-fpm-alpine
+ubuntu:20.04
 testcontainers/helloworld:1.2.0-linux
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
